@@ -1,0 +1,13 @@
+.Header {
+  background: linear-gradient(135deg, #aeced6, #93a6bd); /* Degradado en ángulo */
+  padding: 10px 0; /* Espaciado interno superior e inferior */
+
+}
+
+.Header h1 {
+  color: #10759c; /* Color de texto amarillo */
+  font-size: 4rem; /* Tamaño de fuente grande */
+  text-align: center; /* Centrar el texto */
+  text-shadow: 2px 2px 4px rgba(145, 242, 255, 0.911); /* Sombra de texto sutil */
+  margin: 0px; /* Espaciado inferior del título */
+}
