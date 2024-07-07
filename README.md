@@ -1,4 +1,4 @@
-# React CRUD Application
+# React CRUD 
 ![iamgen](https://i.ibb.co/2cR3qL6/Fire-Shot-Capture-058-Vite-React-TS-localhost.png)
 
 ## Componentes
@@ -41,31 +41,3 @@
 - **TypeScript**: Superset de JavaScript que añade tipado estático.
 - **Vite**: Herramienta de construcción rápida para proyectos de frontend.
 - **CSS**: Para los estilos del componente `Header`y 'User' .
-
-## Instalación y Ejecución
-
-1. Clona el repositorio:
-
-    ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    ```
-
-2. Navega al directorio del proyecto:
-
-    ```bash
-    cd react-crud
-    ```
-
-3. Instala las dependencias:
-
-    ```bash
-    npm install
-    ```
-
-4. Ejecuta la aplicación:
-
-    ```bash
-    npm run dev
-    ```
-
-5. Abre tu navegador en `http://localhost:3000` para ver la aplicación en funcionamiento.
